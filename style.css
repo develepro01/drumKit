@@ -43,7 +43,7 @@ body {
 
 .hihat-top-cymbal {
 	position: absolute;
-    top: 166px;
+    top: 162px;
     right: 71px;
     transform: scale(1.35);
     z-index: 0;
